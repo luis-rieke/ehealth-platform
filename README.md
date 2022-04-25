@@ -7,15 +7,27 @@
 This is my repo for the eHealth Data platform I'm building for my bachelor thesis.
 My scientific goal is to find ways to manage sensible data within a serverless cloud infrastructure.
 
+&nbsp;
+
+---
+
+&nbsp;
+
 ## Links and external ressources
 
 [Astro documentation](https://github.com/withastro/astro)
 
+&nbsp;
+
 ## Installing & Running
+
+&nbsp;
 
 ### Prerequisites:
 
 - Node v16 or later (check version using `node -v`)
+
+&nbsp;
 
 ### Commands:
 
@@ -25,6 +37,8 @@ My scientific goal is to find ways to manage sensible data within a serverless c
 | `npm run dev`     | Starts local dev server at `localhost:3000`  |
 | `npm run build`   | Build your production site to `./dist/`      |
 | `npm run preview` | Preview your build locally, before deploying |
+
+&nbsp;
 
 ## Project Structure
 
