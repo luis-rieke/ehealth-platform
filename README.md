@@ -1,4 +1,5 @@
-<img src="./public/elefant.png">
+<img src="./public/elefant.png" style="
+display: block; margin-left: auto; margin-right: auto; width: 50%;">
 
 <h1 align="center">eHealth Data platform</h1>
 
@@ -8,8 +9,6 @@ My scientific goal is to find ways to manage sensible data within a serverless c
 ## Links and external ressources
 
 [Astro documentation](https://github.com/withastro/astro)
-
-[View diving bear website live](https://divingbearmusic.com)
 
 ## Installing & Running
 
