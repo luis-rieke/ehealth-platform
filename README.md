@@ -1,5 +1,4 @@
-<img src="./public/elefant.png" style="
-display: block; margin-left: auto; margin-right: auto; width: 50%;">
+<img src="./public/elefant.png" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
 
 <h1 align="center">eHealth Data platform</h1>
 
