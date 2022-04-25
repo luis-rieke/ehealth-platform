@@ -1,8 +1,9 @@
-<h1 align="center">Diving bear website built with Astro</h1>
+<img src="./public/elefant.png">
 
-I created this website for my music. I produce whatever I want to with Ableton, Rekordbox and my guitar. You can find the music on every platform when searching for _diving bear_.
+<h1 align="center">eHealth Data platform</h1>
 
-But why did I use Astro? Astro is a framework for building websites. It's a way to build websites that is easy to use and easy to understand.
+This is my repo for the eHealth Data platform I'm building for my bachelor thesis.
+My scientific goal is to find ways to manage sensible data within a serverless cloud infrastructure.
 
 ## Links and external ressources
 
